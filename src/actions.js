@@ -21,4 +21,4 @@ export const requestRobots = () => (dispatch) => {
       type: REQUEST_ROBOTS_FAILED,
       payload: error
     }))
-}  // Not return an Object but a function
+}  // Not return an Object but a function which can be noticed by redux-thunk
