@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://rchen102.github.io/robofriends",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "^6.0.0",
